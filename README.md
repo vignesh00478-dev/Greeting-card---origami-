@@ -26,8 +26,7 @@ A handmade paper greeting card decorated with red borders, hearts, stars, and a 
 8. Write the required message inside the card.  
 9. Check the final card for proper folding and finishing.
 
-![working](workingcell.jpg) 
-
+![working](working_cell.jpg)
 
 ##### **RESULT**
 
